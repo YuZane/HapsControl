@@ -94,7 +94,7 @@ class HAPSControlGUI:
             'path1': r"D:\zxl\mc20l\mc20l_fpga_tag0121_va_rmii_2f_0212\prj\designs\project.conf",
             'path2': r"D:\zxl\mc20l\mc20l_fpga_tag0121_va_rmii_2f_0219\prj\designs\project.conf",
             'path3': r"D:\zxl\mc20l\rtl0p8\mc20l_fpga_tag0301_va_2f_rmii_0307\prj\designs\project.conf",
-            'default_index': '3'
+            'default_index': '1'
         }
         
         # 保存默认配置
